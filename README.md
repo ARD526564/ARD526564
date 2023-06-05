@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ARD526564
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ARD526564/ARD526564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+Prompts:   {{{ masterpiece}}}, {{{natural light, HDR, extremely detailed CG}}},{{{{an extremely delicate and beautiful}}}}, 1girl, {light smile}, {{{{looking at viewer, close to viewers}}}}, {{{{{depth of field, chromatic aberration, lens flare, bokeh}}}}} , head tilt,{{{{extremely_beautiful_detailed_anime_face_and_eyes}}}},
+
+Prompts Negativos: longbody, lowres, bad anatomy, {{bad hands}}, missing fingers, pubic hair,extra digit, fewer digits, cropped, worst quality, low quality, 
+--->
